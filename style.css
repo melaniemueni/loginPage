@@ -1,0 +1,42 @@
+
+.main{
+    text-align: center;
+}
+.button1{
+        background-color: purple;
+        color: white;
+        padding: 5px 9px;
+        border: none;
+        margin-bottom: 10px;
+}
+.button2{
+    background-color: rgb(66, 149, 209);
+    color: white;
+    padding: 5px 19px;
+    border: none;
+    margin-bottom: 10px;
+}
+.button3{
+    background-color: orange;
+    color: white;
+    padding: 5px 13px;
+    border: none;
+    margin-bottom: 10px;
+}
+.button4{
+    background-color: green;
+    color: white;
+    padding: 5px 15%;
+    border: none;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    text-align: center;
+    
+}
+.container{
+    position: left;
+}
+.vl {
+    border-left: 6px solid green;
+    height: 500px;
+}
